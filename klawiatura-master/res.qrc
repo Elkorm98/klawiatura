@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>keyboard.jpg</file>
+        <file>button.png</file>
+        <file>button1.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>wiedmin.mp3</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>dane.txt</file>
+    </qresource>
+</RCC>
